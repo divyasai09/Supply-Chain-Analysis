@@ -48,5 +48,5 @@ The challenge is to clean, analyze, and visualize the data to uncover trends, id
 This project demonstrates the effective use of Python, MySQL, Excel, and Power BI to analyze and optimize supply chain operations. By addressing inefficiencies and visualizing key metrics, it provides a scalable framework for improving logistics, inventory management, and profitability.
 
 ## Project Links
-- **Power BI Dashboard**: 
-- **Dataset**: supply_chain_data.csv
+- **Power BI Dashboard**: [Link](https://app.powerbi.com/view?r=eyJrIjoiYzgzMTQ1YjItMmIwZC00MTBmLWJiOTUtYzZlNTFmNzYyMzA2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- **Dataset**: [supply_chain_data.csv](supply_chain_data.csv)
